@@ -19,3 +19,6 @@ A production-grade, containerized e-commerce order management platform built wit
 ## Demo Credentials
 - **Admin:** admin@shopsphere.local / Admin@123
 - **Customer:** customer@shopsphere.local / Customer@123
+
+## Author
+- **Murtunjay Khuntia** – [GitHub Profile](https://github.com/murtunjay-khuntia)
